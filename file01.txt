@@ -1,2 +1,4 @@
 Contenido del archivo file01.txt
+Contenido del archivo file01.txt
+Contenido del archivo file01.txt
 
